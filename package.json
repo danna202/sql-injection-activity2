@@ -1,0 +1,30 @@
+{
+  "name": "sql-injection_assignmnet",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "body-parser": "1.15.0",
+    "debug": "^4.3.4",
+    "errorhandler": "1.4.3",
+    "express": "4.13.4",
+    "sqlite3": "^5.0.2"
+  },
+  "scripts": {
+    "start": "app.js"
+  },
+  "eslintConfig": {
+    "extends": []
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
